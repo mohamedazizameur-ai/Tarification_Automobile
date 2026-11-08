@@ -4,8 +4,8 @@ Tarification complète d'un portefeuille d'assurance automobile, de la fiabilisa
 données jusqu'à l'évaluation des modèles, à partir de deux bases : **Contrats** et
 **Sinistres**.
 
-> Auteurs : [Prénom NOM, Prénom NOM, Prénom NOM] — Groupe 1
-> Enseignant : [Nom] — [Établissement, année universitaire]
+> Auteurs : Mohamed Aziz Ameur 
+> Enseignant : Lazher hedfi  — ESSAI, 2026-2027
 
 ## Démarche
 
