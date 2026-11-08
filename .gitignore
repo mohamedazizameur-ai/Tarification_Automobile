@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Sorties régénérées par les notebooks (tableaux .xlsx et figures .png)
+outputs/
+outputs_classique/
+
+# Fichiers temporaires Word / système
+~$*
+.DS_Store
+Thumbs.db
